@@ -1,0 +1,5 @@
+The first try for git
+creating a file in the Working directory
+and ready to add it to "the staging area"
+
+Good luck!
